@@ -1,6 +1,8 @@
 # NgrxFire
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+This is a simple voting application using Angular 8 and redux via ngrx to manage the state. This repo will be a good reference to simply implement ngrx in future angular apps. View the demo site with the console open or use the Redux Devtools chrome extension which can be downloaded from the Chrome Web Store found here: https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?brand=CHBD&gclid=CjwKCAjwpuXpBRAAEiwAyRRPgcrTRpSn1JhK6PX42eqWan_wZW1Xzm0K8foJuPeukNOa_FNvcqaPHBoC970QAvD_BwE&gclsrc=aw.ds
+
+Demo: https://darrylmendonez.github.io/ngrxFire/index.html/
 
 ## Development server
 
